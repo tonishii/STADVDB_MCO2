@@ -1,0 +1,11 @@
+pandas
+psycopg2
+dotenv
+ipython-sql
+sqlalchemy
+matplotlib
+seaborn
+scipy
+ipywidgets
+plotly
+nbformat
